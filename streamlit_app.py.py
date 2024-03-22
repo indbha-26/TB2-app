@@ -1,4 +1,4 @@
-import cv2
+import cv
 import pandas as pd
 import streamlit as st
 from ultralytics import YOLO
